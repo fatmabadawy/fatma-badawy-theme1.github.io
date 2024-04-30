@@ -198,7 +198,7 @@ header {
   
 }
 .bo a:hover {
-    color:#d86d95;
+    color: antiquewhite;
     transition: 0s;
     border-radius: 10px;
 }
@@ -222,9 +222,13 @@ header {
 .sidebar li {
     width: 100%;
 
+
 }
 .sidebar a {
     width: 100%;
+   padding: 8px 9px 5px;
+    background-color: #d86d95;
+    border-radius: 20px;
 }
 
 .show{
@@ -421,6 +425,8 @@ header {
     padding: 20px;
     border-radius: 50px;
     background-color: #ff94bc;
+    box-shadow: -10px 0 10px rgb(0,0,0,0.1);
+    
 
 }
 .item h2{
@@ -547,12 +553,12 @@ header {
     align-items: center;
 }
 .iframe{
-    margin: 20px 390px 30px 250px;
+    margin: 20px 453px 50px 90px;
    
-}
+} 
 iframe{
-    width: 1000px;
-    height: 400px;
+    width: 1300px;
+    height: 600px;
 }
 
  
